@@ -20,7 +20,6 @@ a,a:visited,a:hover,a:active{
 	color:url("http://www.bernardwerber.com/images/fond2017_clouds4.jpg");
 }
 a:hover{
-	color:#265f82;
 }
 a.before:before,a.after:after{
   content: "";
