@@ -95,7 +95,7 @@ a.before:hover:before,a.after:hover:after{
   width:5px;
   width:0.35rem;
   height:0;
-  background:#265f82;
+  background:url("http://www.bernardwerber.com/images/fond2017_clouds4.jpg");
 }
 .square:before{
   left:0;
