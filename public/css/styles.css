@@ -39,7 +39,7 @@ a.before:before,a.after:after{
   height:2px;
   height:0.35rem;
   width:0;
-  background:#265f82;
+  background: url("http://www.bernardwerber.com/images/fond2017_clouds4.jpg");
 }
 a.first:after{
   left:0;
